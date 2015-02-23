@@ -1,0 +1,27 @@
+{
+  "name": "split",
+  "version": "0.0.1",
+  "description": "Split large files",
+  "bin": {
+    "split": "./split.js"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/yursha/split"
+  },
+  "keywords": [
+    "files",
+    "file",
+    "split",
+    "large"
+  ],
+  "author": "Alex Yursha",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/yursha/split/issues"
+  },
+  "homepage": "https://github.com/yursha/split"
+}
