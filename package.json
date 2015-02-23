@@ -1,5 +1,5 @@
 {
-  "name": "split",
+  "name": "file-splitter",
   "version": "0.0.1",
   "description": "Split large files",
   "bin": {
